@@ -1,0 +1,20 @@
+[
+    {
+        "_id" : 1313,
+        "venue" : "Yishun Swimming Pool",
+        "address" : {
+            "streetname" : "Chua Chu Kang",
+            "blockno" : "415",
+            "postalcode" : 178865
+        }
+    },
+    {
+        "_id" : 1313,
+        "venue" : "Ang Mo Kio Swimming Complex",
+        "address" : {
+            "streetname" : "Chua Chu Kang",
+            "blockno" : "415",
+            "postalcode" : 178865
+        }
+    }
+]

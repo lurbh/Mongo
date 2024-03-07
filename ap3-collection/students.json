@@ -1,0 +1,20 @@
+[
+    {
+        "_id" : 2010,
+        "name" : "Ben Solo",
+        "dob" : "1985-04-12",
+        "swimmingLevel" : "beginner"
+    },
+    {
+        "_id" : 2121,
+        "name" : "Luke Skywalker",
+        "dob" : "1975-04-12",
+        "swimmingLevel" : "beginner"
+    },
+    {
+        "_id" : 1325,
+        "name" : "Leia Slywalker",
+        "dob" : "1975-04-12",
+        "swimmingLevel" : "beginner"
+    }
+]

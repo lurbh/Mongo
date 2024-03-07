@@ -1,0 +1,21 @@
+[
+    {
+        "_id" : 1313,
+        "name" : "Han Solo",
+        "students" : [
+            {
+                "_id" : 2010,
+                "name" : "Ben Solo",
+                "dob" : "1985-04-12",
+                "swimmingLevel" : "beginner",
+                "sessions" : [
+                    {
+                        "_id" : 1,
+                        "datetime" : "2024-03-01 10:00",
+                        "venue" : "Yishun Swimming Pool"
+                    }
+                ]
+            }
+        ]
+    }
+]

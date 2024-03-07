@@ -1,0 +1,26 @@
+[
+    {
+        "_id" : 1313,
+        "name" : "Han Solo",
+        "email" : "hansolo@wdym.com",
+        "address" : {
+            "streetname" : "Chua Chu Kang",
+            "blockno" : "415",
+            "unitno" : "18-567",
+            "postalcode" : 178865
+        },
+        "children" : [2010]
+    },
+    {
+        "_id" : 1313,
+        "name" : "Anakin Skywalker",
+        "email" : "aniwalker@wdym.com",
+        "address" : {
+            "streetname" : "Chua Chu Kang",
+            "blockno" : "415",
+            "unitno" : "18-567",
+            "postalcode" : 178865
+        },
+        "children" : [2121,1325]
+    }
+]
